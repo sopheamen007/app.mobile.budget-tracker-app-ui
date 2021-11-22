@@ -1,7 +1,5 @@
 # Budget Tracker App UI
 
-## [Download App Demo APK ⬇️📱](https://drive.google.com/file/d/1-X2KSlcNgh4Cf9YMcfMX7dxB5E0dokFW/view)
-
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Watch on youtube Part I](https://youtu.be/whDdLQIUnHA)
 - [Watch on youtube Part II](https://youtu.be/VGj4ayNAm6Q)
